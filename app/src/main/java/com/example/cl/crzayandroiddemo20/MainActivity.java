@@ -1,5 +1,5 @@
 package com.example.cl.crzayandroiddemo20;
-
+//可扩张的列表组件ExpandableLisView。有Error
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.Gravity;
